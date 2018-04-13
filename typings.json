@@ -1,0 +1,14 @@
+{
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "jquery": "registry:dt/jquery#1.10.0+20170310222111",
+    "popper.js": "registry:dt/popper.js#0.4.0+20161005184000",
+    "sqlite3": "registry:dt/sqlite3#2.2.3+20160724070935"
+  },
+  "globalDevDependencies": {
+    "electron": "registry:dt/electron#1.4.8+20170316233216",
+    "electron-builder": "registry:dt/electron-builder#2.0.2+20160510010627",
+    "openlayers": "registry:dt/openlayers#4.0.1+20170310052621",
+    "webpack-merge": "registry:dt/webpack-merge#0.0.0+20161121205806"
+  }
+}
